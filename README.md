@@ -1,3 +1,3 @@
 # CODSOFT-3
-CodSft Task 3
+CodSoft Task 3
 Calculator
